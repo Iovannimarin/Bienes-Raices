@@ -1,2 +1,2 @@
-# Bienes-Raices-Mar-n-y-Asociados
-comercializacion de  bienes inmubles, compra, venta y renta
+# Bienes Raices Marín y Asociados
+comercializacion de  bienes inmubles 
