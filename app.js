@@ -1,1 +1,1 @@
-console.log("Bienvenido a Bienes Raices Marín, inspirado en Century 21");
+console.log("Bienvenido a Bienes Raíces Marín, inspirado en Century 21");
