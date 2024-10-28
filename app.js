@@ -1,2 +1,1 @@
-// Aquí puedes agregar scripts para mayor interactividad
-console.log("Bienvenido a la Inmobiliaria Iovanni Marin");
+console.log("Bienvenido a Inmobiliaria Iovanni Marin, inspirado en Century 21");
