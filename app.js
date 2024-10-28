@@ -1,1 +1,1 @@
-console.log("Bienvenido, inspirado en Century 21");
+console.log "Bienvenido"
