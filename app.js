@@ -1,1 +1,1 @@
-console.log("Bienvenido a Inmobiliaria Iovanni Marin, inspirado en Century 21");
+console.log("Bienvenido a Bienes Raices Marín, inspirado en Century 21");
